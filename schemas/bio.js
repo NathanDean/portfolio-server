@@ -9,8 +9,8 @@ export default {
             type: "image"
         },
         {
-            name: "bio",
-            title: "Bio",
+            name: "text",
+            title: "Bio text",
             type: "array",
             of: [{type: "block"}]
         }
